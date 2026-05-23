@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: luukbosch@proton.me
   #phone: 
-  timezone: Nederland/CET # Enter your tijdzone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  tijdzone: Nederland/CET # Enter your tijdzone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Nederlands
   #website: 
   linkedin: Luuk Bosch
