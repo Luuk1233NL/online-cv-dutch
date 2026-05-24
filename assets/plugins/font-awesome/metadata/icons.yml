@@ -5769,7 +5769,7 @@ building-columns:
       - bank
       - building
       - college
-      - education
+      - opleiding
       - institution
       - museum
       - students
@@ -24192,7 +24192,7 @@ laptop-file:
   search:
     terms:
       - computer
-      - education
+      - opleiding
       - laptop
       - learning
       - remote work
@@ -33894,7 +33894,7 @@ school:
   search:
     terms:
       - building
-      - education
+      - opleiding
       - learn
       - school
       - student
