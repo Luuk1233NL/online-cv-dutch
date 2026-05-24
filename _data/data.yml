@@ -86,14 +86,14 @@ experiences:
   title: Werkervaring
   info:
   - role: Student HBO-IT BIM
-    time: feb. 2026 - heden
+    time: februari 2026 - heden
     company: HAN
     details: |
       Ik ben eerstejaars student HBO-IT, profiel Business, IT & Management (BIM).
       Buiten mijn studie om verken ik uit eigen interesse Linux, Docker en Git en ben 
       ik voordurend op zoek naar manieren om mijn technische vaardigheden te verbreden
   - role: Persoonlijk begeleider
-    time: apr. 2026 - heden
+    time: april 2026 - heden
     company: "'s Heeren Loo, Apeldoorn"
     #details: 
   - role: Verpleegkundige
@@ -101,11 +101,11 @@ experiences:
     company: "'s Heeren Loo, Apeldoorn"
     #details: 
   - role: Persoonlijk begeleider
-    time: dec. 2024 - apr. 2025
+    time: december 2024 - april 2025
     company: Elver
     #details: 
   - role: Medewerker zorginnovatie
-    time: apr. 2022 - apr. 2025
+    time: april 2022 - april 2025
     company: Elver
     details: 
       Als medewerker zorginnovatie maakte ik deel uit van een werkgroep die zich inzette
@@ -113,15 +113,15 @@ experiences:
       van verschillende innovaties, legde uit hoe deze werken in de praktijk en verzorgde
       trainingen voor collega's en scholen over het belang van innovatie in de zorg. 
   - role: Begeleider ernstig meervoudig beperkten
-    time: nov. 2021 - dec. 2024
+    time: november 2021 - december 2024
     company: Elver
     #details: 
   - role: Begeleider ernstig meervoudig beperkten
-    time: nov. 2020 - jul. 2021
+    time: november 2020 - juli 2021
     company: Philadelphia, Brummen
     #details: 
   - role: Verzorgende IG in opleiding
-    time: aug. 2018 - jul. 2020
+    time: augustus 2018 - juli 2020
     company: Philadelphia, Brummen
     #details: 
 #certifications:
