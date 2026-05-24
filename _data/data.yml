@@ -66,17 +66,17 @@ career-profile:
 opleiding:
   title: opleiding
   info:
-  - degree: Verpleegkunde MBO 4
+  - opleiding: Verpleegkunde MBO 4
     university: Graafschap College, Doetinchem
     #time:
     #details: |
       #place details here
-  - degree: Verzorgende IG MBO 3
+  - opleiding: Verzorgende IG MBO 3
     university: Graafschap College, Doetinchem
     #time:
     #details: |
       #place details here
-  - degree: VMBO-T
+  - opleiding: VMBO-T
     university: Liemers College, Zevenaar
     #time:
     #details: |
