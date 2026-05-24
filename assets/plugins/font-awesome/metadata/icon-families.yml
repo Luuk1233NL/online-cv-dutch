@@ -7014,7 +7014,7 @@ building-columns:
       - bank
       - building
       - college
-      - opleiding
+      - education
       - institution
       - museum
       - students
@@ -29494,7 +29494,7 @@ laptop-file:
   search:
     terms:
       - computer
-      - opleiding
+      - education
       - laptop
       - learning
       - remote work
@@ -41307,7 +41307,7 @@ school:
   search:
     terms:
       - building
-      - opleiding
+      - education
       - learn
       - school
       - student

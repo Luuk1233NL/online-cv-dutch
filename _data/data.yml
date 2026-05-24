@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  opleiding: True # set to False if you want opleiding in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Luuk Bosch
@@ -63,8 +63,8 @@ career-profile:
     ik een hbo-opleiding IT met het profiel Business, IT & Management (BIM). Ik ben
     nieuwschierig, oplossingsgericht. Ik ga graag aan de slag met uitdagingen die een om
     een combinatie van analytisch denken en praktisch inzicht vragen. 
-opleiding:
-  title: opleiding
+education:
+  title: Education
   info:
   - opleiding: Verpleegkunde MBO 4
     university: Graafschap College, Doetinchem

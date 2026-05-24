@@ -907,7 +907,7 @@ editing:
     - wand-magic-sparkles
     - xmark
   label: Editing
-opleiding:
+education:
   icons:
     - apple-whole
     - atom
@@ -933,7 +933,7 @@ opleiding:
     - school-lock
     - shapes
     - user-graduate
-  label: opleiding
+  label: Education
 emoji:
   icons:
     - face-angry
