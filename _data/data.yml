@@ -57,12 +57,12 @@ sidebar:
 career-profile:
   title: Profiel 
   summary: |
-    Sinds februari 2026 volg ik de deeltijd hbo-opleiding IT aan de HAN, met het profiel Business, IT & Management (BIM). 
-    Mijn eerste modules heb ik met goede resultaten afgerond, waaronder Business Process Analyse (7,5), 
-    Business Management (organisatierapport, 7,9) en de kennistoets Business Management (6,7). 
-    Daarnaast werk ik actief aan mijn technische ontwikkeling. Zo heb ik ervaring opgedaan met Linux 
-    (basisbeheer via de command line), werk ik met Docker voor het draaien van containers en gebruik ik Git voor versiebeheer. 
-    Ook ben ik bezig met het analyseren en oplossen van technische vraagstukken op een gestructureerde manier.
+    Zorgprofessional met een passie voor technologie, op zoek naar een nieuwe uitdaging
+    in de IT. Ik combineer een analytische instelling met praktische ervaring uit de 
+    zorgsector en ben gedreven om mijzelf verder te ontwikkelen in de IT. Momenteel volg
+    ik een hbo-opleiding IT met het profiel Business, IT & Management (BIM). Ik ben
+    nieuwschierig, oplossingsgericht. Ik ga graag aan de slag met uitdagingen die een om
+    een combinatie van analytisch denken en praktisch inzicht vragen. 
 education:
   title: Opleidingen
   info:
@@ -89,9 +89,12 @@ experiences:
     time: februari 2026 - heden
     company: HAN
     details: |
-      Ik ben eerstejaars student HBO-IT, profiel Business, IT & Management (BIM).
-      Buiten mijn studie om verken ik uit eigen interesse Linux, Docker en Git en ben 
-      ik voordurend op zoek naar manieren om mijn technische vaardigheden te verbreden
+      Sinds februari 2026 volg ik de deeltijd hbo-opleiding IT aan de HAN, met het profiel Business, IT & Management (BIM). 
+      Mijn eerste modules heb ik met goede resultaten afgerond, waaronder Business Process Analyse (7,5), 
+      Business Management (organisatierapport, 7,9) en de kennistoets Business Management (6,7). 
+      Daarnaast werk ik actief aan mijn technische ontwikkeling. Zo heb ik ervaring opgedaan met Linux 
+      (basisbeheer via de command line), werk ik met Docker voor het draaien van containers en gebruik ik Git voor versiebeheer. 
+      Ook ben ik bezig met het analyseren en oplossen van technische vraagstukken op een gestructureerde manier.
   - role: Persoonlijk begeleider
     time: april 2026 - heden
     company: "'s Heeren Loo, Apeldoorn"
